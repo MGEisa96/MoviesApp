@@ -62,28 +62,34 @@ Follow these steps to install the project and its dependencies:
    git clone https://github.com/yourusername/MovieApp.git
    cd MovieApp
 
-# using npm
-npm install 
+- using npm:
 
-# OR using Yarn
-yarn 
+  npm install 
+
+- OR using Yarn:
+
+   yarn 
 
 2. **Run App**
 
 # Android
 
-# using npm
-npm run android
+- using npm: 
 
-# OR using Yarn
-yarn android
+  npm run android
+
+- OR using Yarn: 
+
+  yarn android
 
 # Ios
 
-# using npm
-npm run ios
+- using npm:
+  
+  npm run ios
 
-# OR using Yarn
-yarn ios
+- OR using Yarn:
+  
+  yarn ios
 
 
