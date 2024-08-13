@@ -1,0 +1,7 @@
+const Screens = {
+    FAVORITE_SCREEN: 'FAVORITE_SCREEN',
+    HOME_SCREEN: 'HOME_SCREEN',
+    TABS_STACK: 'TABS_STACK',
+    DETAILS_SCREEN: 'DETAILS_SCREEN',
+}
+export default Screens
