@@ -14,13 +14,6 @@ MovieApp is a React Native application that allows users to search for movies, v
   - [Step 2: Start your Application](#step-2-start-your-application)
     - [For Android](#for-android)
     - [For iOS](#for-ios)
-- [Packages and Dependencies](#packages-and-dependencies)
-  - [Scripts](#scripts)
-  - [Dependencies](#dependencies)
-  - [Dev Dependencies](#dev-dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
