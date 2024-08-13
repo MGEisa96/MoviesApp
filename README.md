@@ -34,6 +34,8 @@ MovieApp is a React Native application that allows users to search for movies, v
   - Share movie posters via WhatsApp, email, etc.
   - Support for pagination.
 
+
+
 - **Favorite Movies:**
   - View and manage movies marked as favorites.
   - Share movie posters via WhatsApp, email, etc.
@@ -41,6 +43,12 @@ MovieApp is a React Native application that allows users to search for movies, v
 - **Movie Details:**
   - Detailed view of movie information passed from the previous screen.
   - Pull to refresh capability.
+
+<p align="center">
+  <img src="screenshots/SearchScreen.png" alt="Search Screen" width="30%" style="margin-right: 10px;">
+  <img src="screenshots/FavScreen.png" alt="Favorite Screen" width="30%" style="margin-right: 10px;">
+  <img src="screenshots/DetailsScreen.png" alt="Details Screen" width="30%">
+</p>
 
 ## Prerequisites
 
